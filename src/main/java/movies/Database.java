@@ -8,7 +8,7 @@ import java.util.List;
 public class Database {
     private String databasePath;
 
-    Database(String databasePath) { //constructor
+    Database(String databasePath) { // table constructor
 
         // create table or make sure it is created.
 
